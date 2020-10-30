@@ -29,4 +29,4 @@ Atualmente trabalho na [Zaply](https://zaply.com.br/) com foco no produto [Recip
 - AWS
 - E um pouco de Google Cloud
 
-Curto bastante participar de projetos no tempo livre. Se tiver algum Bora? :rocket:
+## Ah! outra coisa... Curto bastante participar de projetos no tempo livre. Se tiver algum Bora? :rocket:
