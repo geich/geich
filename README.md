@@ -11,8 +11,6 @@ Atualmente trabalho na [Zaply](https://zaply.com.br/) com foco no produto [Recip
 - CSS
 - React
 - Nextjs
-- Apollo
-- GraphQL
 - Typescript
 
 ### No back:
@@ -20,7 +18,6 @@ Atualmente trabalho na [Zaply](https://zaply.com.br/) com foco no produto [Recip
 - Express.js
 - AdonisJs
 - Python
-- Um pouquito de Machine Learning/Deep Learning
 - SQL
 - NoSQL
 - Typescript
